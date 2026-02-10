@@ -1,0 +1,15 @@
+1/ Error{
+    1.1/ migrate {
+        path = App\Providers;
+        use Illuminate\Support\ServiceProvider;
+        Schema::defaultStringLength(191);
+    }
+}
+
+//Install Config Done
+2/ Install package{
+    "owen-it/laravel-auditing": "^13.5"(Install)
+
+}
+// command
+1/ Create migrate

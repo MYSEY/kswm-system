@@ -1,0 +1,1715 @@
+[33m06a7b567[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m update invoice payment
+[33m8c28bd8a[m pull
+[33m9d763ad6[m update pre survey api
+[33m2d264a5e[m Update CustomerController.php
+[33m9c3e43cb[m rename is_recorded to recorded
+[33m8b82bcac[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m pull
+[33m548377c7[m[33m ([m[1;31morigin/sey-dev[m[33m)[m update api customer detail
+[33mf7c4895b[m update pre survey
+[33m4bc6de1d[m update api pre survey
+[33m12f95548[m update customer api
+[33m877bb3ab[m update pre survey
+[33m483e4d72[m update customer api
+[33m9ffa55da[m update pre survey api
+[33mc8c14bb6[m update customer api
+[33mab873976[m pull
+[33mdf0c4122[m Update report_customer.blade.php
+[33m770939df[m Merge branch 'main' into dev
+[33mcdb6d3e9[m update customer request change
+[33m4be2b5b7[m Update CustomerController.php
+[33m4e77db84[m Update CustomerController.php
+[33m1433b13c[m Update CustomerController.php
+[33m0e0565a3[m fix name approve in customer
+[33m69098873[m Update ReportController.php
+[33m1753ac02[m rename menu
+[33m27c879c3[m add paid in customer approve
+[33mb2e9dc4a[m update pre survey
+[33m8122c626[m update pre survey
+[33m080e03a2[m add phone customer list
+[33me080e5a9[m Update ReportController.php
+[33m21e1470f[m fix report customer
+[33m107527fa[m update pre survey api
+[33m8c589271[m update apr pre survey
+[33mf697b8fb[m update pre survey api
+[33m8b4c4e86[m update pre survey
+[33m936a56df[m update pre survey store s3
+[33m7d4b7e5b[m fix report customer
+[33m1c97497b[m fix report presurvey
+[33m05231651[m fix menu report
+[33md17388eb[m add paid date and fix label paid_date
+[33m6080dfcb[m Create no_image.png
+[33m406ec700[m Merge branch 'main' into dev
+[33m574f759f[m fix error report customer
+[33m411db41b[m fix single block
+[33m60575654[m Merge branch 'main' into dev
+[33mf6978a65[m report customer
+[33mcbccbb26[m fix total amount in pdf invoice
+[33m1398a017[m upload image mobile
+[33m8ae74ea5[m update store s3
+[33mea86fe8b[m update invoice scan backen
+[33mde9e9069[m update
+[33m3af7de05[m update api pre survey
+[33m1ccf5168[m update pre survey api
+[33mb8ffa960[m update invoice
+[33mb9d53662[m update api pre survey
+[33m4ef5810a[m push test
+[33m23420809[m update api
+[33mb56b91df[m update pre survey
+[33m59d69cd9[m update customer api
+[33m84a45aa7[m update pre survey
+[33m823f6306[m update pre suerve api
+[33m369c3ebd[m update dashboard
+[33m3d8f9d71[m update dashboard
+[33m2daa8f77[m update dashboard
+[33m6bc998c7[m create function get data show dashboard
+[33m192f4d22[m update invoice api
+[33mf5f81524[m update invociec api
+[33m2d5b1a3d[m update api pre survey
+[33m0763c301[m add column created_by
+[33maabd0139[m update api pre survey
+[33m8413f5d1[m update invoice api
+[33m7ccd14e4[m update customer request change
+[33ma46acc91[m update customer api
+[33m0f2aab5c[m update customer requet change
+[33m83313464[m update pre survey
+[33mc5e11dbd[m update customer
+[33mf9adc0d9[m update customer request change
+[33mf1bbbc79[m update customer api and backend
+[33m11f66e2e[m update invoice list
+[33m066f2458[m update customer list backend
+[33m02aba708[m update role permission
+[33m5f18d3d3[m pull
+[33m6fb8733e[m fix debt amount
+[33meeef0b2e[m Update customer_map.blade.php
+[33mfaf6a0e2[m Update MapController.php
+[33mddd38a7b[m Update customer_map.blade.php
+[33m1456ca5d[m update map customer
+[33mc92941ca[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33mba312db6[m update api customer
+[33m06e9dfeb[m update customer api
+[33m4ce50b1d[m update customer api
+[33m87d3f33f[m update customer api
+[33ma07869e7[m update customer api
+[33m1bb91875[m update customer backend
+[33m1406eb7e[m update customer backend
+[33ma333ba9f[m update customer backend
+[33m714f0b5b[m update customer backend
+[33m4d076c0a[m update customer api
+[33m0a6189a3[m update invoce api
+[33m3ecaaa17[m update invoice filter month
+[33ma761be7b[m update customer api
+[33m81bd8901[m update customer api and invioce add filter
+[33m992b4d9c[m update customer api
+[33me5c423e0[m update customer api
+[33md373aeb9[m update customer api add filed
+[33m9974662e[m update customer api filter
+[33m1e84ad29[m update customer request change
+[33m748c610b[m update invoice transfer detail
+[33m994de6c8[m update invoice payment detail
+[33m530b17fc[m update condition scan
+[33m848295df[m update invoice payment
+[33m6983df52[m update invoice scanned
+[33m2bab452b[m update invoice transfer
+[33m188b684b[m update invoice transfer
+[33m5213bcf1[m set print date in invoice
+[33m3b5b87de[m Update InvoiceController.php
+[33m418a8d32[m add print date invoice list
+[33mcf16d0ad[m separate amount kh us invoice list
+[33mf93a741d[m update invoice transfer
+[33mfccf99a5[m fix onChangeCategory in subcategory
+[33m3e16989f[m fix data branch business type, Category, subcategory
+[33mbb5864a3[m add more location code invoice list
+[33m14bf2c0f[m enable option export invoice list
+[33mf1a71eb0[m update invoice transfer
+[33m2422ecee[m update invoice transfer
+[33mdad95499[m update invoice transfer
+[33m29388688[m updated invoice scan
+[33m7fc9cebb[m update invoice list
+[33m436055be[m Merge branch 'main' into dev
+[33m63bd0eb2[m Update invoice_payment_detail.blade.php
+[33m9382ceed[m fix field payment detail
+[33m712ece67[m fix field payment receive
+[33me84c176a[m pull
+[33maee2c641[m update invoice payment
+[33m0da68b89[m pull
+[33mbbd028aa[m update invoice payment
+[33meb566545[m update invoice
+[33mc1b74b8a[m update invoice
+[33m15ad09e8[m update invoice payment
+[33m906f3d5f[m update invoice payment
+[33m9494ce76[m update invoice payment
+[33m33b47946[m update invoice
+[33m5afbc690[m update invoice scan
+[33m216733e7[m update invocie
+[33m9089ad78[m update invoice transfer
+[33m0c12f7cc[m update invoice transfer
+[33mbbb63e5d[m update invoice transfer
+[33mca2951d0[m update invoice transfer detail
+[33mab975420[m update invoice transfer
+[33mb7324608[m update invoice scan
+[33mfca92401[m update invoce transfer scan
+[33mb9130ec2[m update invoice payment
+[33m6bb0d31e[m pull
+[33m0bad4d0d[m update invoice payment
+[33m2a2308c7[m pull
+[33m06d67b6b[m update invoice payment
+[33mff9af0dd[m pull
+[33m189934de[m update invoice payment
+[33mf175d59a[m pull
+[33m473184bc[m update invoice transfer
+[33m3a0676e6[m pull
+[33m3d0ed14a[m update invoice payment
+[33m572f50b3[m update invoice payment
+[33m5bb07fb1[m update invoce
+[33m8785ffe5[m update
+[33ma5a1281e[m update test invoice
+[33m347304bb[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mf2f0c066[m pull main
+[33m76a74470[m update invoice
+[33m501fad73[m update invoice
+[33m8265d53f[m update invice
+[33m5e8300ad[m update invoice
+[33m3a8d25ae[m update invoice
+[33m4e778681[m update invoice
+[33m8d798fe3[m update invoice
+[33m0c4caa15[m update invoice
+[33ma36d8f21[m update invoice
+[33m811539b0[m update invoice
+[33m9d8a491d[m update invoice
+[33m600d1faf[m update invoice
+[33m189b7c67[m Merge branch 'main' into dev
+[33mdf2cb59c[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api
+[33maf3bb379[m subprate amount
+[33m83a284ae[m update invoice
+[33ma38f3771[m pull
+[33m4f2b11ed[m update invoice
+[33m8350d0b3[m Update invoice_paid.blade.php
+[33m835c71bf[m update invoice transfer detail
+[33mae8d95f9[m Update invoice_paid.blade.php
+[33m1406ed4d[m add more total inv, amount usd and amount khr
+[33m04b0d8a7[m Merge branch 'main' into dev
+[33m2d6181bc[m[33m ([m[1;31morigin/ChhaiEang[m[33m)[m update customer
+[33m2caa677c[m Update invoice_template.html
+[33mc365e973[m Update invoice_template.html
+[33mf76e8e90[m Update invoice_template.html
+[33m529957d3[m fix error search in table and add vatin in invoice pdf
+[33m438cd072[m fix error search in invoice management
+[33m46026517[m fix error search invoice list
+[33md2f3ec12[m fix error search datatable paid invoice list
+[33m70053ef9[m add more field and fix filter date approved
+[33m87f31ace[m Update GenerateInvoicePdfJob.php
+[33mdcee3f0f[m update pull
+[33m6948138d[m pull
+[33m8f963389[m fix filter payment invoice and set order by
+[33m1fcb6f15[m update transfer invoice
+[33mb4fff043[m update invoice
+[33m6f125ccc[m update filter invoice
+[33m8d022673[m update invoice scan backend
+[33m7acea39f[m update invoice ganerate
+[33m7d11b96d[m update invoice approved
+[33me814cc93[m update invoice scan
+[33m91b771b0[m update scan
+[33mb68ea003[m update remove invoice payment
+[33m6272534b[m update invoice scan
+[33m97e2238f[m update invoice payment
+[33m351c3b68[m update invoice payment
+[33m5d45c6a3[m upate invoice paymnet
+[33m9fc686a8[m fix url invoice paid list
+[33m633b9f18[m fix field amount invoice list
+[33m6564a220[m invoice list and list paid
+[33m266b4d3b[m update invoice transfer
+[33m7d58e7f4[m Update index.blade.php
+[33mb8ebb6ab[m dashboard done
+[33m3f120852[m update invoice transfer
+[33m59a664dd[m update invoice payment detail
+[33mca873d63[m update pagination
+[33mcd628b31[m update invoice transfer
+[33m20f75f84[m update invoice transfer
+[33mde191f44[m Merge branch 'main' into dev
+[33m69daa5df[m Update InvoicePaymentController.php
+[33md2f3df33[m Update InvoicePaymentController.php
+[33m129e4722[m Update InvoicePaymentController.php
+[33m83a9b3cf[m Merge branch 'dev' of github.com:KSWM-Company/kswm_system_api into dev
+[33mdc936393[m server test
+[33ma44c739b[m set prefix cs_id on file pdf invoice
+[33m37ed5493[m Merge branch 'main' into dev
+[33m8612be2d[m dynamic QR bank KHR and USD print invoice
+[33m4102f63c[m disable watermark
+[33md272a241[m update lang
+[33m6eeed9bd[m update invoic payment
+[33m99e81e3e[m Update SetSlugName.php
+[33ma1569e51[m update invoice api
+[33m72ed8626[m update invoice api
+[33m97bc91b6[m update api ivoice
+[33m9976ed80[m update invoice scan backend
+[33m4eeae6bd[m invoince filed invoice_payment_id
+[33ma9e5e5b2[m Update PreSurvey.php
+[33m44c5d005[m add route for check timezone
+[33m7b6d7546[m update customer request change
+[33mcddaac0c[m requestchangecustomers
+[33med24a4d3[m update pre survey
+[33m590a6358[m update pre survey
+[33m2bb755e0[m update invoice payment
+[33mce230df5[m add filed bank_id invoice
+[33m794ab00f[m update invoice recev
+[33mdb693589[m update invoice validation
+[33m3be17b0d[m rename chang to change customer and fix active menu
+[33mba2dc731[m update invoice
+[33mfa2b924f[m update invoice scan
+[33m44eeb17f[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33me95b964c[m Update InvoiceController.php
+[33m7bf7788d[m update invoice scaned
+[33mbbe31b88[m update invoice
+[33m89fe74b9[m update invoice
+[33m4aac46cf[m Update .gitignore
+[33m6b2ee2b6[m ignore folder
+[33mbcfbe938[m update invioce update
+[33m9bbcdf52[m Update .gitignore
+[33m71609b3a[m fix select print and reprint invoice pdf
+[33m6332f9fe[m reprint and select print invoice
+[33md7f634b4[m compress icon png to 24 x24
+[33m033d4bd4[m update scan invoice payment
+[33me2d7de05[m update invoice scan
+[33md6d0f0bb[m update invoice remove
+[33ma177f4a3[m Update convert_pdf_by_invoice_id.py
+[33m48bbc2a3[m Update InvoiceController.php
+[33mf9b40e17[m add print select invoice
+[33m8d84b8d3[m update invoice payment
+[33ma1f270bc[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m2e316a8c[m Update database.php
+[33m8ae8b2fa[m update invioce payment
+[33m34742939[m update invoice scan-qr
+[33m72525c88[m update invoice scaned
+[33m36da5e4a[m testing timezone in server
+[33m9da28568[m change timezone
+[33mcf4f9d57[m update invoice payment
+[33m7d07b25f[m update invoice payment
+[33me98b14ab[m update invoice payment
+[33mfb4512b4[m update invoice payment
+[33mc3313e78[m update invoice payment
+[33mf6b206f3[m fix reprint invoice
+[33m758adf9d[m create function print invoice
+[33m3e11de7f[m Update convert_pdf.py
+[33m7edbb1c0[m fix order location code print invoice done
+[33m06711577[m update pre survey order
+[33m44f71917[m udate pre survey
+[33mc5851a7d[m update pre survey order
+[33mfb9eebdc[m update invoice order
+[33m857aba5c[m update invoice order
+[33m2a85d56b[m update
+[33mba26fa34[m update customer request change
+[33ma1316812[m customer req
+[33m2ccdf50b[m update status customer
+[33m271349fb[m update invoice scaned
+[33mdeac4bf3[m update invoice scan
+[33m27c3f903[m update scan invoice backend
+[33m919a7bc5[m add qr code in pdf invoice
+[33m1cd03d4e[m update user
+[33mf677008b[m update api cagegory
+[33m68cf1cd5[m update backend check by branch
+[33m859be599[m set status was printed invoice
+[33m3183573d[m fix layout invoice pdf
+[33m1c55858c[m update api invoice transfer
+[33m559b42f1[m update api invoice
+[33m0b3e7ffb[m update invoice api
+[33m39c2d9ec[m update invoice api
+[33m8b034d7d[m update invoice api
+[33mbe8d6bba[m update invoice api
+[33m8ed16d72[m pull
+[33m253be03c[m pull
+[33mb53aadf3[m Merge branch 'main' into dev
+[33mc3e46efe[m update api invoice
+[33md1186eb1[m Update invoice-mpdf.css
+[33m1612c2b7[m fix date for select print pdf
+[33m54cce3ac[m Update convert_pdf.py
+[33m0923238b[m[33m ([m[1;31morigin/hang[m[33m)[m Merge branch 'dev' into hang
+[33m02666d49[m fix layout pdf invoice
+[33m574c0601[m update invoice transfer api
+[33m4b9e21af[m create api main value
+[33m6ce3e555[m update invoice
+[33m37605bac[m pull
+[33mc0bb339a[m clear code
+[33ma85ff0d9[m update main value
+[33m6dc433f6[m pull
+[33md89df473[m pull
+[33mc1782a62[m pull
+[33m583c28cb[m fix payment
+[33m0c1431e7[m Update InvoiceController.php
+[33m56683fea[m Merge branch 'main' into dev
+[33mc34df682[m edit mainvaluelist
+[33mfaf00279[m udate invoice transfer
+[33mfe925c47[m fix pdf
+[33mb42993df[m update
+[33m3376772e[m mainvaluelist translate
+[33m1b8e898a[m[33m ([m[1;31morigin/prinInvoiceLocation[m[33m)[m update api invoice
+[33m427ad19e[m merage
+[33mfd986a87[m update invoice api
+[33m2a045fa4[m merge code
+[33m10f4080f[m update api invoice get customer image
+[33me075c41d[m Update InvoiceController.php
+[33m16ebe626[m Update InvoiceController.php
+[33mce7afde0[m crud mainvaluelist
+[33mf06cc575[m update api invoicr transfer
+[33mc4188369[m update invoice api
+[33md41da7ec[m update customer
+[33ma514da0e[m update customer api order house
+[33mdb8bac51[m update invoice api
+[33m6a69a2e9[m update invoice api
+[33m507d54db[m update invoice api
+[33mdeeb043c[m update invoice
+[33meeff55cb[m update invoice
+[33m1e7424e8[m update invoice scanlocation
+[33mdf2fc3bd[m update invoice location scan
+[33m0cafcba4[m update role
+[33m18f9d307[m pull
+[33mf8f85f26[m update invoic api
+[33m408a1f3e[m update invoice api
+[33m34b379ef[m update
+[33m76176286[m update invoicr transfer
+[33mde45c58e[m fix row_index and pdf
+[33mc6ef3d2e[m fix duplicate name in assign invoice list
+[33m21ef325c[m update assign invoice
+[33m0048d102[m Update invoice-mpdf.css
+[33mab80eaa6[m Update invoice-mpdf.css
+[33mfe0da8eb[m fix real page pdf done
+[33m26b93d99[m update pre survey detail
+[33m5eac5d5e[m update pre survey detail
+[33mf2c0e735[m update detail customer
+[33m2c9d0590[m create api invoice transfer
+[33m6b3cda03[m update api invoice
+[33m60e45a52[m update invoice api
+[33m988d6343[m update invoice api
+[33m3ab4eb16[m update invoice api
+[33m87f91956[m update pre survey backend
+[33m112213e4[m update pre survey
+[33m187f7eab[m update invoice
+[33me37e92e8[m Update invoice_template.html
+[33mcc53f343[m Merge branch 'main' into dev
+[33m8169e747[m fix layout pdf
+[33ma02b6c77[m update customer list
+[33m499fcd57[m update customer status
+[33m8e0a6f82[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m16824acd[m Update convert_pdf.py
+[33mdfe7f35d[m update customer status
+[33m8d662aed[m code bong chhaieang
+[33ma13d6fed[m update invoice filter multy
+[33mf4d25dbb[m Merge branch 'main' into dev
+[33m9cb64222[m Update status.txt
+[33m65b9161e[m update api customer
+[33mb426fab5[m fix pdf python
+[33ma91ceeff[m Merge branch 'main' into dev
+[33m907a1a00[m fix generate pdf invoice done
+[33m59f56d38[m Merge branch 'main' into dev
+[33m00e9a829[m update invoice
+[33medb78707[m update customer backend
+[33m7997ea71[m update api customer
+[33m9b41fd19[m Update invoice-mpdf.css
+[33m205d7797[m Update invoice-mpdf.css
+[33ma54a9cc9[m Update invoice_template.html
+[33m60814525[m fix css pdf invoice
+[33meb6d5682[m update customer
+[33m30efe017[m fix qr code pdf invoice
+[33m57f02ffc[m Update invoice_template.html
+[33m10c2d75b[m Update invoice_template.html
+[33m6d009cb6[m update api customer
+[33m2b3d719a[m Update invoice-mpdf.css
+[33m4c89b4bd[m update api customer
+[33m189d9b34[m merge
+[33m5d568fca[m Update invoice-mpdf.css
+[33m7a186932[m Update invoice_template.html
+[33m8c919284[m fix css pdf
+[33m477cd10d[m Update invoice-mpdf.css
+[33m71afad99[m Update invoice-mpdf.css
+[33mcfd96595[m watermark pdf
+[33m56c734a0[m Update invoice_template.html
+[33md077c5dd[m watermark pdf
+[33m8e0b1b54[m Update invoice-mpdf.css
+[33mdf7dcc5c[m Update invoice-mpdf.css
+[33m01b4b1e0[m Update invoice_template.html
+[33mfd991aed[m Update invoice-mpdf.css
+[33meac927f4[m Update invoice_template.html
+[33m855ad89d[m Update admin.blade.php
+[33ma34c74a2[m Update invoice_template.html
+[33ma758a3db[m Update invoice-mpdf.css
+[33mbbb7e28c[m Update invoice_template.html
+[33m1fcb9e73[m Update invoice_template.html
+[33ma017bd85[m Update invoice_template.html
+[33m2410b6cd[m Update invoice_template.html
+[33m63be8f42[m Update invoice-mpdf.css
+[33m9709a183[m watermark
+[33m5bb065fe[m add remark pdf invoice
+[33m8f2453bb[m update invoice
+[33mebea2f85[m Update invoice_template.html
+[33m33fe6267[m update api invoice
+[33mc9370f08[m update invoice payment detail
+[33m0545a25a[m fix pdf invoice
+[33m9c277949[m add business type invoice
+[33m36c08b8e[m Update invoice_template.html
+[33mb84e03ab[m Update invoice_template.html
+[33m993ff4a1[m Update convert_pdf.py
+[33m340d1190[m Update convert_pdf.py
+[33m7258e682[m Update invoice_template.html
+[33ma78aee24[m Update convert_pdf.py
+[33m71a7aba5[m add business type invoice
+[33mdc63c315[m Update invoice_template.html
+[33m1cc505e4[m Update invoice_template.html
+[33m4a42f1af[m Update invoice_template.html
+[33m1afdac29[m Update invoice_template.html
+[33ma0404396[m Update invoice_template.html
+[33m4c65ed83[m Update invoice_template.html
+[33m44cb7cde[m Update invoice_template.html
+[33m6ee52fea[m Update invoice_template.html
+[33m37a38c15[m Update invoice_template.html
+[33mae2d7881[m live qr pdf
+[33m5f6bfad1[m Update convert_pdf.py
+[33maadebc6a[m format date full year in layout pdf invoice
+[33m466f3f3c[m update layout pdf invoice v2
+[33m1b63bfa9[m update invoice api
+[33m1bba805c[m optimize memory python
+[33mbb17805c[m create template invoce2
+[33m430f8c4c[m update api invoice payment reciev
+[33m17299d3c[m update api invoice payment
+[33mcfeaf3ec[m update api invoice scan location
+[33m4dceea04[m update api invoice scan location
+[33ma234b2ba[m update apin invoice
+[33m5e168227[m update api invoice
+[33mccf82751[m update api invoice
+[33mf521f78b[m update invoice
+[33mdb70c68d[m update api invoice scaned
+[33m1f90ef1c[m update invoice serach
+[33m9da91d58[m update invoice serach customer name
+[33mf10281ed[m update invoice remove
+[33mef1031d3[m update remove invoiec scaned
+[33m3fb1eef0[m update invoice remove
+[33mb1c127ef[m update api remove scan
+[33macd0ad96[m translate branch
+[33m3cbdff63[m Update InvoiceResource.php
+[33m5f2e1be1[m update function edit sub category
+[33mf912f410[m update api pre survey
+[33m81cae3ca[m Update PreSurveyController.php
+[33m1d119168[m update api all
+[33m12f7e83a[m update pre survey
+[33m6d7670cc[m update status customer
+[33m689df6fb[m Update status.txt
+[33m2b995f3c[m Create status.txt
+[33m250eb8a4[m update filter invoice
+[33m81f8043c[m update invoice
+[33m3ee659e0[m update invoice payment
+[33m862486a4[m update invoice payment
+[33m03619a6e[m update api invoice payment
+[33md946d8a5[m update api invioce payment filter submit date
+[33mcc24b7b6[m update api invoice payment
+[33ma832406d[m update api presurvey
+[33md234e8e0[m update api presurvey
+[33meac46558[m update api
+[33mf4beef4b[m update api presurvey
+[33mf703bad9[m update api pre survey
+[33m4c26c33a[m update api pre survey
+[33m214c9a77[m update dashboard
+[33m69c685a7[m update dashboard
+[33m83646f7e[m update customer web
+[33m9abc113a[m update presurvey
+[33me8d814dc[m update customer api
+[33mad741806[m update customer api
+[33md9c6f2bc[m update customer api
+[33m55614e48[m update api customer
+[33ma05665df[m update pre survey api
+[33m4bd464f6[m update pre survey api
+[33m01728447[m update location code in pre survey
+[33m66422459[m update customer change dataType
+[33m66ed8bfa[m update customer condition by branch
+[33m59b4f2e4[m update pre survey add filed
+[33m052e981d[m update customer
+[33m917281f3[m update role permission
+[33m1970907f[m Update convert_pdf.py
+[33ma7c5bd4b[m update user profile
+[33m0bebb4eb[m update filter invoice
+[33m6a90b946[m update invoice payment
+[33mc81364dd[m update invoice
+[33m9cd13e38[m update invoice scan
+[33m0ce0719d[m update incoic scan
+[33ma2b1b517[m Update invoice-mpdf.css
+[33m03f69c24[m import font
+[33m82779cb1[m fix preview PDF
+[33me4cec40a[m Update InvoiceController.php
+[33m2c4d7da6[m create file preview and clear file images in public
+[33m3c174a60[m update api invoice
+[33mab413387[m fix sql python run with digital ocean
+[33m4656fb14[m fix part library python in .env
+[33mb8298be0[m Update GenerateInvoicePdfJob.php
+[33m4f31571e[m clear library python server test
+[33me111c683[m Update GenerateInvoicePdfJob.php
+[33mce6ba3cc[m pull library python3 server test
+[33m5bf69006[m set log on python script
+[33me30cbe79[m use python 3 running
+[33mf4366ee6[m server testing
+[33m39e35671[m fix connection to server testing
+[33mb54ef9dc[m clear file mpdf
+[33mee44e806[m clear file image
+[33m1220edf7[m fix error currency
+[33maeded491[m sum amount invoice by currency
+[33m4eea12d8[m update assign invoice
+[33m23e9e109[m color green all
+[33m6ba1ff11[m fix event generate pdf
+[33m7c56dbdc[m check generate PDF invoice
+[33mdee2b877[m update invoice
+[33m43125496[m pull code
+[33m0aa96ab4[m preview invoice pdf
+[33mb26b018f[m update
+[33ma8d2a58a[m rename file db python
+[33mced64b21[m break file python fix error DB
+[33m248374c3[m clear code mpf and fix duplicate customer approve list
+[33ma29a22c7[m invoice
+[33m22f1bed4[m update invoice api and web
+[33mefdfe495[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m43f0e866[m get data on invoice pdf
+[33mb2963573[m update powerby
+[33mc8d5fe39[m update layout invoice
+[33mf0ff2394[m pull from dev
+[33mb900bb4e[m update part and generate qr code on invoice PDF
+[33m578f6d83[m Merge branch 'main' into dev
+[33m87594de6[m clear code generate pdf and inject python for generate pdf
+[33mb1f5b734[m update invoice payment
+[33mb53f10c3[m Update GenerateInvoicePdfJob.php
+[33me6457102[m inject python
+[33md9dedc65[m merge
+[33m30d77354[m update pre survey api
+[33m4cfad83b[m Update pdf_template.blade.php
+[33ma599be07[m fix logo qrcode pdf
+[33m216172f3[m Update PreSurveyController.php
+[33m69310789[m orderBy api pre survey list
+[33mef4ff651[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m5b5188be[m Update .gitignore
+[33mc6df97d0[m update api pre survey
+[33me5f0eea6[m update font
+[33m8be18c82[m font
+[33mfc0baa84[m update pre-survey
+[33m9dfa1db1[m update invoice template
+[33m316c3bab[m update pre-survey
+[33m266c00b7[m update invoice
+[33mcf420926[m update font
+[33mac3df9b0[m update font
+[33md34c1c12[m update font
+[33m27138bfc[m update font
+[33m22382294[m update font
+[33m1c29aa07[m update print invoice
+[33m12bc4ed6[m update style invoice
+[33m400fab35[m update mpdf
+[33maf40b914[m update api pre-survey
+[33m2d67d254[m mpdf update font
+[33mf32db109[m update generate pdf
+[33mc2e7a4cf[m update invoice
+[33m1fd0e49e[m set log file
+[33m2c072f41[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m4ceae3ed[m update payment invoice
+[33mc9b33367[m Merge branch 'main' into dev
+[33m99400286[m mpdf
+[33m1e18a296[m hide slow amount dashboard
+[33m9ccfe8a8[m update customer register
+[33ma154f135[m layout pdf
+[33m918c83bf[m update invoiec
+[33me1916305[m update api invoice
+[33m6268cf97[m update api invoice
+[33m423139a6[m fix invoice
+[33m335728ca[m update api invoice
+[33m3f234fa9[m update api
+[33mb9422125[m update api invoice
+[33m7b5899dd[m Update pdf_template.blade.php
+[33m7f21df61[m Update InvoiceController.php
+[33mc6d41ec0[m Update InvoiceController.php
+[33m5af0b042[m Merge branch 'dev' of github.com:KSWM-Company/kswm_system_api into dev
+[33m706c8b6d[m server dev
+[33m4bffde6a[m live test
+[33m6c1c141c[m live test
+[33ma51775d6[m[33m ([m[1;32mmain[m[33m)[m Delete 2025_02_02_120929_create_job_batches_table.php
+[33m4d2dff3d[m Delete 2025_02_03_214253_create_job_batches_table.php
+[33m62e8fa5b[m =sever test
+[33md090c9cc[m update variable in invoice
+[33m6ac6556a[m update api invoice
+[33mc736fdcd[m update api invoice
+[33mcdf9872f[m update invoice api
+[33m0d8d5ec5[m update api invoice
+[33md25a2301[m update api invoice
+[33m5b550490[m update api invoice
+[33m8bf7b1cc[m update invoice
+[33m395f2858[m pull from chh
+[33m17b97982[m mpdf
+[33mcec4bb04[m update api invoice
+[33m1ed79f55[m mpdf
+[33m4c0e1f57[m update api invoice
+[33m4455bf7b[m update invoice payment
+[33m538eb804[m update api invoice payment
+[33m2c104e68[m Merge branch 'main' into dev
+[33m51b7af30[m fix link map customer all status
+[33mb3d10ce1[m update api invoice
+[33mda471554[m fix signal map customer
+[33mf220cb57[m update customer api
+[33m687a5a07[m update api invoice
+[33m6a280213[m update api scan finde location
+[33m4e2f4164[m update customer
+[33mec18079a[m update customer api
+[33m231ae4ef[m update api invoice
+[33m4e03bb0c[m update mpdf
+[33m5c020eb7[m update generate invoice
+[33m9095401a[m fix create and update pre survey
+[33m68acc67c[m fix select business type in pre survey done
+[33maa56d21f[m Delete 2019_08_19_000000_create_failed_jobs_table.php
+[33m28ed0e8f[m update api invoice
+[33m701f3d7a[m update api invoice
+[33m77ee307c[m update invoice
+[33m261b7995[m update api invoice
+[33m10068a7d[m update function generate invoice pdf
+[33mf30f0f95[m unassign invoice and lang menu = 6commit
+[33m6d29441e[m update sub category
+[33med4fc138[m update sub category
+[33m23f1745d[m update pagination invoice
+[33mc120074c[m update customer
+[33m5c7785c4[m update invoice
+[33m35f4187d[m generat invoice disable all
+[33mfe7f481f[m update map customer
+[33mbaed6545[m update invoice detail
+[33mca3e921e[m update invoice
+[33m34fb5710[m update invoice
+[33mf0b119ac[m update invoice
+[33m8d937801[m update invoice
+[33mcdf74e58[m update assign invoice
+[33m10dd8f0d[m update telescope
+[33m5d41ac94[m update api customer
+[33m19ad965d[m update exchange rate
+[33me1eb6b56[m update customer detail
+[33mc1e84219[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m81ce6798[m update token
+[33m31e64758[m update
+[33m15f72061[m update function tockentExpiration
+[33mb8e5c9cd[m add detail customers
+[33md957af9b[m update api customer
+[33m59a1493f[m update api pre survey
+[33mdcf88c3f[m update
+[33m0c904abb[m update pre survey
+[33mb7b50f64[m update api pre survey
+[33m5f34b8e0[m update api pre survey
+[33mfaa0d9c8[m update invoice
+[33me10e67ec[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mc21eeb31[m update api pre survey
+[33mfde25056[m have update invoice
+[33m16507f70[m update pre survey
+[33m5fd1a556[m udate presurvey api
+[33m3c94b3e8[m update customer
+[33mfaf31002[m update scen img
+[33m3f2961fd[m update invoice scen
+[33m7fd3758f[m update invoice search
+[33m7eefe041[m update invoice api
+[33m44da6945[m update
+[33m84b72864[m update
+[33mb5afdea5[m update invoice
+[33mdefa1e72[m update invoice
+[33mc1f960ed[m update invoice
+[33m1e3aee87[m update invoice
+[33m76894eed[m update
+[33mb1801b77[m update
+[33mb992d5c3[m update invoice
+[33m75eef66e[m update generat invoice
+[33m95bc88ca[m update invoice
+[33m2e35b08d[m update invoice
+[33mda11118d[m update invoice
+[33me3a9703e[m update api invoice
+[33mf849a4a7[m crate api invoice
+[33med4ffac2[m upate invoice
+[33m889c4a0d[m Merge branch 'main' into dev
+[33m5482031c[m fix alert msg login wrong password
+[33mef540f67[m update
+[33me8b65046[m update customer
+[33m041d3c8a[m update customer
+[33me8801328[m update customer
+[33m281d3c66[m update alert customer
+[33m40916975[m update customer alert
+[33ma074b8e3[m update alert customer approve
+[33me8603ca9[m update customer list
+[33m1412e60f[m update customer list
+[33mc67c69ff[m update customer list
+[33m6c62b3fd[m update customer edit
+[33m071ad2ab[m update customer inactive
+[33mf901d898[m update customer inactive
+[33m8707d27b[m update customer inactive
+[33m9f09c408[m create function customer inactive
+[33med1be471[m update customer review
+[33m456430e3[m add field remark in table customers when review
+[33m6377318a[m fix login error
+[33mb0e2a58d[m update login set sessio
+[33me806e599[m update customer
+[33m3504cc7c[m fix responsive table
+[33m29c562b2[m customer space
+[33mbd273c80[m update customer
+[33m7aafd406[m update role permission
+[33m151be1a7[m update login by role
+[33m46fe77f6[m update dashboad
+[33m9346908c[m update customer detail
+[33m04a2a990[m update customer review and approve
+[33me0829f6c[m update customer
+[33m0e375841[m update customer api
+[33mc80200ae[m update customer
+[33mc53b00cb[m update customer review
+[33md6008b05[m add list view customer
+[33m5946f30c[m update api customer function update
+[33m49e33128[m update customer api
+[33mdbb45e88[m update customer deatil
+[33m380f852a[m customer api detail
+[33ma2120381[m update customer
+[33m0a8c9f11[m update approve
+[33mc7ccf97e[m respond data table in customer
+[33m50fc7237[m change style command code
+[33m411ce1cc[m update customer
+[33mda455c02[m update responsive
+[33m68b28bd9[m update approve list
+[33m7afc4b27[m update filtter customer
+[33m168a1110[m update customer api
+[33m2e764932[m update currency
+[33m2a8a998b[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mee8c18f2[m update presurvey
+[33m5724fe36[m update customer backend
+[33maafeb612[m Merge branch 'main' into dev
+[33md27f2885[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mc661c346[m update customer edit
+[33m6b4b27c1[m update time zoon
+[33m88a7f4f8[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m62cac6f9[m update time zoon
+[33mdcc780db[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mb243da74[m update customer both
+[33m82a9af4b[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m0908e4e4[m update api customer
+[33m583f8175[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m1904963d[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m0b865715[m update customer approve
+[33m2803d0df[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api
+[33m487b9972[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mdf3aa43f[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mf39e2fa2[m agian
+[33m59dc0e18[m update customer
+[33mea8d46ec[m update customer list
+[33m1aef06f8[m Update Generate.php
+[33m8bebbdcd[m update generate customer id
+[33m2accdca4[m update customer api
+[33mf06d5ab6[m Testing GenerateCustomerNo
+[33mf657f5bb[m comment list approve index and spac cus
+[33mde75061d[m update customer api
+[33m16ac219a[m update customer
+[33me646b1b1[m update role
+[33mb49bd29f[m update customer
+[33m8089fecb[m update api customer
+[33m011ede61[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m443018cf[m update api customer
+[33m848e66ac[m update show pass user and get Button Save and Approved
+[33m9565c714[m update role permission
+[33m2201d639[m update api customer
+[33m1d1abaf0[m update processcustomer use queue
+[33m0372a99e[m update api customer
+[33m4983fe6a[m update api customer
+[33m5dee9e4f[m update api customer
+[33m679000bf[m update api customer
+[33m75e7191f[m update customer api
+[33mc129981e[m update api customer
+[33m364fd7d3[m update api customer
+[33m9350f1ff[m udate customer api
+[33m0626a2db[m update api customer
+[33m1e74fb89[m update api customer
+[33mce2c614c[m update dashboad
+[33m6adc720f[m update customer api
+[33ma1b0ae67[m update api customer
+[33m2fe94ab5[m update api customer
+[33mdab9f6b5[m update invoice
+[33m7e650034[m update customer api
+[33m933e1ff9[m update api customer
+[33m2c33406c[m update customer
+[33m71e7cda8[m update customer
+[33m2faa779f[m update customer
+[33m27504ec2[m update customer
+[33meda5731e[m update customer
+[33m947db2e6[m add list image in customers
+[33m18ded86d[m update api customer detail
+[33m4f0dc175[m update api customer
+[33m657b3bba[m update api customer
+[33m5a16ac5a[m update api customer
+[33m67158f5d[m update login
+[33m17d0544f[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m7547b554[m update customer api
+[33mac052ea0[m update customer api
+[33m75f11c0c[m update api customer
+[33m192f8546[m display all pre survey
+[33maf9bb490[m update user status edit and create the same
+[33m8d590ed4[m Merge branch 'dev'
+[33m45c053fe[m udate merge customer detail
+[33m1f92b5f4[m update api
+[33m12741dde[m status active user
+[33m5d4d9757[m update customer detail
+[33m86524548[m update customer detail
+[33m95789b5d[m update
+[33m6055bb39[m update customer detail
+[33m450fbd5b[m update customer
+[33m1191b3bb[m update customer
+[33mef250878[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m06b053e7[m image zoom
+[33m71a2e17d[m update pre survey search
+[33m004c82a0[m update customer
+[33m19ddf020[m update customer list
+[33m85734dd6[m update customer search
+[33mdbb011ed[m view image detail cus
+[33mbc88f012[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33meb104f19[m update dashboard
+[33me6291267[m Update CustomerController.php
+[33m2314ef88[m Update CustomerController.php
+[33m266e2957[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33md97ace52[m Update CustomerController.php
+[33m60e4c235[m Merge branch 'dev'
+[33m876c9575[m update ap
+[33m33857e1d[m update
+[33mf3c83302[m Merge branch 'dev'
+[33me8cf755d[m Merge branch 'hang' into dev
+[33mcc252ae2[m update api
+[33maa181a6b[m update customer api
+[33m2b96dc37[m uda
+[33m40bbab0d[m update
+[33me822f616[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m53dd0642[m update
+[33md1495fd8[m Update CustomerController.php
+[33m9a135f46[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mf56e1f7f[m upate customer
+[33mc866d252[m update customer
+[33mce37399c[m update customer
+[33m5bf29e56[m updated loading customer
+[33m08b92938[m update customer
+[33m643af4af[m phoIDcard and cus_no for detail
+[33m81016ebd[m update form stafflist
+[33mae169d05[m update api customer
+[33m905e805a[m update staflist
+[33m119a4ef3[m s
+[33m618d0be8[m update customer
+[33m4bec1649[m update api customer
+[33m96aea244[m update api customer
+[33m961bf3db[m update customer space
+[33m4c72fd27[m update customer api
+[33m755928bc[m update customer api
+[33mea24ee8e[m update customer
+[33m71ca2cf4[m update customer api
+[33mf6824786[m update customer api
+[33mc31f6758[m update customer api
+[33m5a498d69[m update
+[33m19365fef[m update customer api
+[33mdff24963[m update api
+[33m359ee2b4[m update customer
+[33m8d9ddcd4[m update customer
+[33m0ead9028[m show approved
+[33mc8b63bda[m update api business type
+[33m8ebab38e[m update api
+[33m4df69451[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m51b679cb[m update api customer
+[33m39d449ab[m Update CustomerController.php
+[33m677f646b[m update api customer
+[33m538bf1ee[m customer show approved status
+[33m53a81a59[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m8651b81a[m Update CustomerController.php
+[33m0b2d6cc4[m update customer
+[33md9f8e6aa[m Update CustomerController.php
+[33m2dc466c0[m Update CustomerController.php
+[33meacb8163[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m07c49a6d[m log customer
+[33m4e7ac1d0[m update api customer
+[33m88794524[m currency customer done
+[33m349e6b3e[m Update customer_map.blade.php
+[33m10efa07a[m map customer done
+[33m22553b68[m Update MapController.php
+[33m7ae036d6[m optimize code view map on pre survey
+[33m82c82680[m update currency customer
+[33m9845d88b[m Merge branch 'dev' into hang
+[33m4dc13dd9[m add more map in customer
+[33m66ab28f7[m update customer
+[33m246120e5[m detail
+[33maba304a8[m update customer
+[33m47f62f18[m update customer
+[33mcd702b76[m Merge branch 'hang' into dev
+[33m08db6022[m update
+[33me43b4fc4[m Merge branch 'dev' into hang
+[33m9c3562ec[m update map pre survey
+[33m3db82c4b[m update api
+[33m73d97ffa[m update customer
+[33m11e7e879[m update customer
+[33m77bd70f5[m update customer
+[33m5678d740[m update customer
+[33m2e6fac02[m update customer
+[33m9bb30711[m update customer
+[33mad291e53[m update customer register
+[33mf179f46a[m update customer business
+[33mc76a9109[m Merge branch 'dev' into hang
+[33m9158176f[m update map pre survey
+[33mc8d74f64[m update pre survey
+[33mba8e4464[m update currency
+[33mb7651e9e[m update
+[33m86e89eda[m update api
+[33ma8e6da71[m update customer approve
+[33m99d81e94[m update customer
+[33m41ce0822[m update api
+[33m740084d4[m update customer
+[33mb1e0cc01[m upate customer new
+[33mfc60fe2d[m update api Position
+[33mdfe6932e[m update customer list
+[33m9b322208[m upate customer
+[33ma25a78a0[m update customer register
+[33mf06058e8[m optimize code and fix loading image on customer done
+[33m5e0d3bcf[m update customer register
+[33m0c9e9a3f[m update
+[33m3cc6c962[m update
+[33me7070bc1[m update
+[33m54a7b42b[m update customer redirect
+[33m23bb6f71[m update pre survey map
+[33m48597720[m pdate pre survey map
+[33mf00aa5d7[m update customer register
+[33m76e905c4[m update rediract customer
+[33m97a2334b[m update customer
+[33m399d7379[m update pre survey map
+[33ma62dd12f[m update exchang rate
+[33m9e73803e[m update customer
+[33mc7da0aa4[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m95465ffd[m merge
+[33m8a39a3bf[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api
+[33m95c12ab6[m update pre survey
+[33m87c63823[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m5f5318ac[m update
+[33m9f8280f7[m update
+[33m4d0e6b8b[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33mc8361352[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into hang
+[33m806b320a[m update pre survey
+[33m8dd865e6[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m9a73667b[m Update index.blade.php
+[33ma9718ab6[m Update index.blade.php
+[33mef40d209[m update api customer
+[33mffa33473[m update pre survey map
+[33m6bf99478[m Merge branch 'dev' into hang
+[33m51fdf8dd[m optimize data list pre survey
+[33m5728c32d[m Merge branch 'dev'
+[33md392da6d[m update pre survey list
+[33m8b13dd1c[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m54e44e79[m update
+[33m1d218fd8[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33md66758a8[m update pre survey map
+[33mae354bf5[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api
+[33m3e7d4f28[m update pre survey map
+[33mf3fa57db[m update pre survey
+[33m4b097a92[m Merge branch 'main' of github.com:KSWM-Company/kswm_system_api
+[33me00e8082[m update filter pre survey category
+[33mec42c0be[m merge
+[33m44426416[m merge
+[33m9cf82c32[m[33m ([m[1;31morigin/Test[m[33m)[m update pre survey
+[33md7c02ab6[m update pre survey map
+[33m250910a2[m update exchange rate
+[33m225d8b89[m update exchange reate
+[33m97806f60[m update lang
+[33md004defa[m update currency and exchange rate
+[33mfae0bd1b[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m0b665050[m update
+[33m9e8712b4[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mfc14765c[m update presurvey
+[33m8b8f86eb[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m49661a18[m update dashboad
+[33m0ee35080[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mfe2949c6[m update dashboad
+[33m7d007f15[m update
+[33m8ab45ae5[m update sub-category
+[33m6ddd8626[m update
+[33m6174e98a[m Merge branch 'dev' into hang
+[33mcca5ab48[m fix error conson log
+[33mcfbb402a[m update pre survey
+[33mfbde234a[m update
+[33m96a11ef6[m update
+[33ma2acc4f1[m update
+[33ma57c7b4f[m update dashboad
+[33m3ff2d287[m change datatype table pre-survey
+[33m98d4ae3b[m Merge branch 'dev'
+[33m57c665a2[m clear conflict
+[33m6e571519[m Update index.blade.php
+[33mccb5b9e5[m Update index.blade.php
+[33m278476d4[m Merge branch 'main' into hang
+[33mc105f43f[m fix update pre-survey
+[33m32939d77[m update pre survey
+[33m2b9e9275[m update pre survey
+[33m9253d636[m import
+[33m6198a459[m conflict
+[33m54b1e3c6[m update category
+[33me4bcf3f3[m update presurvey
+[33mcdb15923[m update dashboad
+[33mcd9eae7e[m get dataable server side
+[33m52203d33[m upate session brach_id use
+[33m43bf6c64[m location coe
+[33mef102bb5[m update api
+[33m357fb2c5[m update pre survey
+[33m184d5cc8[m update
+[33md908acff[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m2c9525b5[m update
+[33m13b409bf[m pull
+[33m6b1e9369[m pull
+[33m1a4341d2[m desk
+[33mde373cca[m update pre survey
+[33m90766d33[m pre
+[33mf60f00d2[m update
+[33m794d992b[m update pre survey fillter
+[33mec04ad74[m search des
+[33m4473eaf7[m update pre survey image
+[33m85f43b42[m update pre survey
+[33mafa8ec5f[m update datatable pre suervey
+[33md9ff74e1[m fix map
+[33m3604812c[m Merge pull request #6 from KSWM-Company/dev
+[33mcf651b25[m update
+[33m2fc6b235[m update count user pre survey
+[33m7074705c[m Update pre_survey_map.blade.php
+[33m0d914b40[m Merge branch 'dev' into hang
+[33mff7b5304[m Test
+[33m4f33833f[m update layoute
+[33m01c1d8da[m update Riel
+[33m5697dc4d[m update layoute
+[33mcb4cfc8e[m update layout
+[33m8bda6f31[m update layout
+[33m9ab69cc1[m update Map Pre survey
+[33m6f986068[m add fil search ID Pre survey list
+[33ma179cb63[m update function update Pre survey
+[33m4630fe66[m add field map list and filter
+[33m86a198c9[m add field Map, list and filter Pre Survey
+[33m0642cb1f[m update api sub category by category id
+[33m6e4c8abb[m update log file
+[33m966e01fe[m Update PreSurveyController.php
+[33mfd226643[m Update filter_location_code.blade.php
+[33mbb005ec4[m Update filter_location_code.blade.php
+[33mc3c61dc8[m fix permission
+[33m85f48857[m Update PreSurveyController.php
+[33mc7e83fcc[m Update PreSurveyController.php
+[33mf4d68238[m Merge branch 'dev' into hang
+[33m93da2d70[m add log payload and validate Pre Survey
+[33mf6c61492[m upate layoute
+[33m270bdf9a[m form pre
+[33m3ce251a1[m update permission
+[33m09f9c6bd[m Validate field
+[33maeb18281[m Merge branch 'dev'
+[33m78da56b9[m Update PreSurveyController.php
+[33m45e04862[m update check permission
+[33m7c5c19fa[m Update PreSuveyController.php
+[33m98d81441[m add filter location code Pre survey.
+[33m4587c2a3[m fix pop up Pre Survey list done
+[33m828ccc1e[m update api location code
+[33ma2ca74b8[m Merge branch 'dev' into hang
+[33maa14e7c5[m update api pre survey
+[33ma6def08e[m prt
+[33mab625a5f[m search map pre survey
+[33mac4d6314[m add more done
+[33mbf06ce2f[m Update index.blade.php
+[33m4c3bb611[m Merge branch 'dev' into hang
+[33m2d4bb47a[m add new fil on pre survey list done
+[33m57885bb2[m join table on Pre survey  list
+[33m6ee0c9ea[m update pre survey back end
+[33m934fd628[m fix pop up img list pre survey done
+[33mbdb35bdd[m fix pop up img list Pre survey
+[33mc9ad7a2c[m Merge branch 'dev' into hang
+[33m37035dbc[m add more file search map pre survey
+[33m7671a0dd[m update user api
+[33mb9e4d46b[m update lightgallery
+[33md1b09a7f[m Merge branch 'dev' into hang
+[33mb4c050b4[m Create UserPreSurvey.php
+[33mecd70fbf[m update permission
+[33m25e49751[m update
+[33m2be07871[m update pre survey
+[33m02cbd2eb[m update pre survey
+[33mff43042d[m permission pre sursey
+[33m6e4c97c0[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33ma02819ec[m fix image pre survey list and permission pre survey
+[33m40370fe0[m Merge branch 'main' into dev
+[33ma65b83de[m Merge branch 'ChhaiEang' into dev
+[33m8962f3d1[m clear consol.log map pre survey
+[33me25d9447[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m1cae3363[m fix mobile controller list pre-survey
+[33m08f05f6e[m fix image list pre-survey
+[33me9c64852[m[33m ([m[1;32mTest[m[33m)[m update
+[33m93ae0e3d[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into Test
+[33m76bc9b09[m update api
+[33mcf901a8e[m menu
+[33m8d51c2a8[m update user backent
+[33m2b05ced0[m update api pre survey map
+[33m3cb667d8[m update
+[33m15936520[m update
+[33mee2b4ebd[m update
+[33m5aba64fa[m update api survey
+[33ma74ce669[m merage
+[33mdafd3214[m update api survey
+[33md883169b[m update
+[33m9d3e124a[m update
+[33ma1c717b5[m update
+[33m0bf68259[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into Test
+[33ma43c2b37[m update presurvey
+[33m060898a8[m update
+[33m539df2e7[m update sue
+[33m66e12bc3[m update
+[33mc08e7264[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m85082c13[m update user profile
+[33mf4f35fab[m update clear
+[33m0eb5d2ce[m update
+[33m4177f507[m updata active menu and translate
+[33ma29d6eba[m add filter date Map Pre survey
+[33m127048b8[m update user branch default
+[33me0256957[m update login api
+[33mb4cee98d[m update api presurvey
+[33m1244163b[m Create PreSurveySHVSeeder.php
+[33m3a0611df[m update presurveyfackery
+[33ma46a5f0f[m done search star date end date Pre Survey
+[33mde8637d0[m make layout filter Pre Survey
+[33m84d0b90d[m Delete edit.blade.php
+[33ma6de948f[m clear code and set delete by
+[33m7ba9b9c7[m fix crud pre-survey done
+[33mbdd50645[m update api survey
+[33m5e31c7ea[m update user branch
+[33mf93daa88[m Merge branch 'dev'
+[33m55241f0a[m Merge branch 'dev' into hang
+[33m03ca2e7d[m pre survey not update with image
+[33m33c717e5[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m5b15c6bd[m update orderby
+[33m91325711[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mc7ba4709[m update user
+[33m807ca84a[m clear folder
+[33m80316f18[m =storage
+[33mccd71afb[m Update .gitignore
+[33m677676bc[m Merge branch 'main' into dev
+[33m550d2d70[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m4dfc9c01[m update
+[33mc2ddb228[m Merge branch 'dev' into hang
+[33m4da1b32e[m delete and edit Pre Survey
+[33m84e730cb[m view map
+[33me61c35de[m delete folder storage in public
+[33mc1f19493[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m683fe93f[m update
+[33m63b3e2f8[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m6bdbd45e[m update
+[33m86bcedd1[m update login
+[33m41fd29d7[m update
+[33m676e78e5[m update
+[33mc9a30fa1[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m981cb699[m update
+[33md3117632[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m3fcd2a8b[m update
+[33mff4b2742[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mbfef1a33[m update layoute
+[33m5fc8eac2[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mfa268135[m update
+[33m54c39410[m map
+[33m222b8edb[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m5715782c[m update layoute
+[33m0b83f338[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m81a18cd7[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mf34542b9[m update user branch
+[33mfce2abec[m Merge branch 'dev' into hang
+[33m13f3fdca[m fix height map and add single map pre survey
+[33md5ab65bc[m update form pre survey
+[33m56073636[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mffc4e0de[m update switch branch
+[33m72ea9f91[m update pre survey
+[33me09ccddc[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mbf5899a8[m update branch
+[33m0f7a3dcc[m merage
+[33mafce91d9[m update
+[33md50d4e8a[m merge
+[33m1b628105[m pre survey
+[33m42a0e315[m update all activitilog
+[33maadde4bf[m update pre-su
+[33mfa2981c8[m update pre-survey
+[33m1ccb94b3[m update pre survey
+[33m0d923bfa[m Merge branch 'dev' into hang
+[33mf08f8846[m map Pre survey
+[33m3921860e[m upate api pre survey
+[33m21265e64[m Pre Survey
+[33mebd65755[m fix route api and web Map
+[33m14149004[m Merge branch 'dev' into hang
+[33m155996ee[m controller and view of map
+[33me77cfbe2[m update pre survey
+[33m4c9b551f[m create new pre survey api
+[33m2b4077f7[m fix duplicate route in web and api
+[33m0860f420[m clear update
+[33m9f9b3c5b[m Merge branch 'dev' into hang
+[33mcf79ecaf[m fix route duplicated web and api
+[33mc4d30943[m update switch branch
+[33m4d7124ce[m update
+[33m5986bb9f[m update user
+[33ma3e9caa5[m update user
+[33mef4c504c[m update switch branch
+[33m650f5098[m Merge branch 'dev' into hang
+[33m77779957[m Merge branch 'dev' into hang
+[33m40c5f013[m update user branch
+[33m449a8772[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m253f0a05[m update
+[33mbbf0a234[m Merge branch 'dev' into hang
+[33mf8819f27[m update switch branch
+[33m075f8b0f[m update
+[33mea98f114[m update modal all form
+[33m808d9d8b[m update
+[33mae38d3fb[m update api user
+[33m490489e9[m update role
+[33m185475a2[m update role
+[33md7951b8c[m locationcode
+[33m5bc9f150[m update
+[33m3e3bcf0c[m update side
+[33m54a623af[m agreement
+[33m5e07bdd8[m update
+[33mcbc59bce[m update permission
+[33mdc0848d5[m update
+[33m0c5fc170[m update
+[33md500047c[m update
+[33m4e61d061[m update permission
+[33me6bc4de9[m layoute
+[33mdb902af7[m update
+[33m49198e60[m update permision category
+[33m74995f13[m update header
+[33mf2666c45[m update user
+[33m6aee46f6[m update role
+[33m10c20c63[m update
+[33m3bab16d6[m update permission
+[33m037f4a17[m update role
+[33mf14c949a[m update location customer
+[33mf90452c0[m update api customer and survey
+[33m4ad42e40[m update agreemen
+[33mf385fd12[m update agreement
+[33m57b4f3a3[m Merge branch 'main' into hang
+[33m256703d9[m color
+[33m43f564a3[m update
+[33mbb41fef6[m update
+[33m22219f83[m update permission category
+[33me652a4d4[m update
+[33m3783817b[m update
+[33md438e2b5[m update role permission
+[33m5330a0d5[m update
+[33m3cc4a522[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mb7850f14[m update
+[33m614025f6[m update company
+[33m027c4855[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mc596a874[m update chang request customer
+[33mb414eaa1[m update info cm
+[33mc7125f01[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m93d8f1c3[m update api number of customer and survey
+[33ma030ec4e[m menu
+[33m83954f0e[m update address
+[33mc13d5f71[m update payment type
+[33m45ff58a1[m update preview chang reques customer
+[33m17d850c1[m update survey request
+[33mb16698a8[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m5480d7a9[m update login
+[33mfc87a708[m update
+[33mbcfc4efa[m updae
+[33mb03b83a1[m update user profile
+[33mcd2a1edf[m update api
+[33m6002013b[m update api logout
+[33mc94c8343[m request survey
+[33m42aa880b[m update api survey location
+[33med4ca4a2[m req
+[33m9a18338b[m update api survey location
+[33mfbee54be[m update customer change request
+[33m29368da0[m update api
+[33m6cfbb747[m update
+[33m3a9452df[m update api
+[33m689c00bd[m update
+[33mb4bbc39a[m update api
+[33m4a85ef02[m update
+[33mc8f8eb24[m update
+[33ma74956f7[m Merge branch 'main' into hang
+[33med20a553[m update
+[33m77cb404c[m update
+[33m95f9a2a8[m update change request customer
+[33m7cbcc94a[m Merge pull request #5 from KSWM-Company/dev
+[33m073110f3[m update
+[33m28c511e9[m upate request chang customer
+[33m93b48bff[m update
+[33mc34d6f21[m update
+[33ma2c4c3a8[m update notification
+[33m62c63e18[m notification login
+[33m8b34e04f[m Merge branch 'main' of github.com:KSWM-Company/kswm_system_api
+[33m2a440ffe[m server push
+[33me8a3f36f[m update user
+[33m79901963[m update
+[33mc3f024ab[m update api
+[33m8c6fddf9[m update permission
+[33m08102ebf[m update customer
+[33mf5023115[m update
+[33m93f39f96[m update
+[33mf2698e36[m update
+[33mceb9f5ff[m update
+[33mc22dd265[m update
+[33m7871385a[m location list search business type
+[33m2ebe7f82[m update
+[33m94dd59a5[m update api
+[33m3c86aab5[m update
+[33m3dbefb7a[m update customer
+[33mf4993f95[m update
+[33m9cce7c88[m update
+[33mc683d036[m update
+[33m1998320e[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m72635454[m customer chang request
+[33m513deb20[m searching location code
+[33m45d04d56[m update customer
+[33m0af70394[m updated api
+[33m64ffc1c5[m update api
+[33m34efb2bf[m update
+[33m279a984c[m update
+[33m382b14ed[m update api
+[33mf678d29a[m update
+[33m5acec40d[m update api
+[33m414266cf[m Update create.blade.php
+[33me83ef60e[m Merge branch 'dev' into hang
+[33mfd8b9419[m change name survey and clear code customer
+[33m94b3b428[m Merge branch 'dev' into hang
+[33ma28f4f87[m update form survey
+[33m4550351a[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33mba884b61[m update api
+[33m76bffd09[m remove field location code in business type front end
+[33m3a21fa9a[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m7fecaad3[m update customer request
+[33me6a6c555[m update api
+[33m4bf4ec56[m update font
+[33m81c56323[m update photo profile
+[33m3f076ed4[m Merge branch 'hang' into dev
+[33m20604a70[m Merge branch 'ChhaiEang' into dev
+[33m2b254c4a[m add field link_map survey detail
+[33m87a421f7[m form create survey done
+[33m831246b0[m update error load
+[33m6bad59d3[m Merge branch 'dev' into hang
+[33m713a4a12[m update require field survey done
+[33mc8e08614[m update api
+[33mf6b1340c[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m78323ccb[m update translate loading
+[33m5798c948[m update app
+[33m05924074[m Merge branch 'dev' into hang
+[33m55d39da5[m Update create.blade.php
+[33m8ee8c5f6[m update customer
+[33m605dc9bd[m Merge branch 'dev' into hang
+[33m15787899[m update api login
+[33mc7711955[m Update .env.example
+[33m0d62663d[m Update B login and Show
+[33m69893e1c[m update form upload
+[33m0731cc47[m update
+[33mfb62b367[m loading
+[33m91369e1f[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m267142c7[m update role
+[33m62cbc406[m update layout
+[33m3d3683dd[m Update .env.example
+[33m7b644432[m update role
+[33mbb43ba9f[m update role
+[33ma53feb24[m update role
+[33m0b48555a[m update
+[33m7e39d922[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33mdcea8891[m update menu
+[33mdfefe4f9[m crate new function
+[33m6e2a450b[m create new agreement
+[33m2ded0791[m add menu
+[33m78b70855[m fix permission and role
+[33m43c4a52f[m fix view role permission
+[33m854a22e2[m fix controller and web route
+[33mf5010fd0[m update controller
+[33mc8305d51[m Merge branch 'dev' into hang
+[33m716f2cac[m create model with controller for role permission
+[33mb777f41c[m page error
+[33m4835345d[m update code error
+[33m09a908ac[m update config
+[33m83a74a4f[m fix page error
+[33m92554382[m config role permission work with crud
+[33m30d5ffbe[m Revert "fix database"
+[33m32337a94[m Merge branch 'dev'
+[33m2416ba61[m setup role permission with Digital Ocean
+[33mef5e2b6f[m setup role permission
+[33me7b8ec80[m fix relational DB Digital Ocean
+[33ma3856bde[m fix database
+[33mc6a34dbc[m invoice
+[33mc82ddea0[m update
+[33m79d59cb8[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m67745aa7[m update agreement
+[33m5a550104[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m14b9eea4[m update
+[33md5b31ce2[m update admin agian
+[33maf1b3f11[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m4bb8727b[m update
+[33m56c30904[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33me1e0b956[m update invoice
+[33m6545746f[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m97c4c8db[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m0945946a[m update customer
+[33ma59530f6[m invoice
+[33m32d064f0[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mca46e418[m update api
+[33m5dd1c23c[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mbfc83e46[m update user
+[33m0c39256e[m update form company
+[33mb818a16f[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m2673f3d7[m update customer
+[33mdeabd13c[m Merge branch 'hang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mc223c8fc[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33meb86fc84[m Update DatabaseSeeder.php
+[33m9fbcf4d4[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m9018da20[m update api
+[33mff5d4d72[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mf550d3c9[m update api
+[33mb6465779[m Update .gitignore
+[33mdd197203[m Update .gitignore
+[33mab0c7c9b[m Update .gitignore
+[33mc66a9e60[m Create .gitignore
+[33m3499f95b[m pr
+[33mee4bfcd6[m profie
+[33ma5377605[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mb7d0d062[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m4e3b8b0d[m udate
+[33m0954f4ec[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m5186850c[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mcd6ba2e1[m update gita
+[33m785643d7[m update
+[33mf631d4fe[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33ma6f58efd[m update
+[33m4434d6af[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m2a8c827d[m update comman
+[33ma63c2a03[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m4ecf0d7b[m update api customer
+[33mfb8342be[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33md3021ac3[m update api customer
+[33m7da08ced[m Update detail.blade.php
+[33mcc1ba0ce[m update survey detail
+[33m6fd01d04[m Merge branch 'dev' into hang
+[33ma3cefb03[m update survey detail
+[33mbd495ddd[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mae3e0408[m update
+[33mbc79f8cc[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m8221faab[m update customer
+[33ma64404d2[m fix data seeder
+[33mb3c7cc6e[m fix console.log
+[33mccadf459[m Update create.blade.php
+[33m6962a5c7[m update customer detail
+[33m2b77fc4e[m update customer detail
+[33m25445dd4[m btn survey detail
+[33m3d94f1f7[m fix menu
+[33m0699e9d3[m fix error amount
+[33mc5b3d8b4[m Merge branch 'hang' into dev
+[33m3c2202b7[m Update create.blade.php
+[33m90b7c84c[m update customer
+[33mdb5b5c19[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mddceed4c[m all
+[33mf3cf3579[m merge
+[33m31995017[m complete survey detail
+[33me3198f2e[m update re
+[33mf6355594[m update customer
+[33m3c8ce58f[m merge
+[33mcd3b496c[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m6d2167b0[m update form customer
+[33ma0fcdc88[m update rele
+[33me73f45f6[m company
+[33mc5eeb87a[m Update detail.blade.php
+[33m4766e9cf[m survey detail
+[33mb2e5c00e[m Update SurveyController.php
+[33me64eed91[m can't create survey done
+[33mc952d39f[m Update 2024_03_02_074822_create_survey_details_table.php
+[33mf01e1f0e[m done create survey
+[33m295dd2a4[m fix location code
+[33m505bd1df[m update
+[33m970639bb[m crud company info
+[33mc794e419[m updaate
+[33m0e99b0ea[m merge
+[33m5457ccae[m merage
+[33m9c4500b0[m update
+[33mf10afaff[m survey list done
+[33m5cc0e822[m create survey done
+[33m9f2d580b[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33mab5ad7fc[m update customer
+[33m9ea49e41[m merge
+[33m91917c03[m update survey
+[33m843af3c5[m merge
+[33m87f89d98[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api
+[33m6fa3ee6c[m update
+[33mabbcfba8[m merge
+[33m65d500a9[m update survey image
+[33mbc11948e[m test
+[33m3059f909[m test
+[33m09ddc076[m test
+[33m0fb89cb6[m test
+[33mac4f3a77[m test
+[33m39bdc6c6[m test
+[33m0a362815[m test
+[33m9e6d808c[m test
+[33m28c5d104[m update api survey
+[33m159f7742[m update survey api
+[33mabd326f1[m update
+[33mbf217ed1[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mc3787c4a[m merge
+[33m816ad0ce[m fix image base64
+[33m167d3824[m crud address
+[33mff367eaf[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m2cf58737[m update api survey detail
+[33m6785b18b[m update
+[33me77a580a[m update api search survey
+[33m25ab5a7b[m fix back end
+[33m79e94fd0[m form data front end done
+[33m6c1cf67a[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33mcfc54c76[m updae login for api
+[33m30795db5[m update login
+[33m6c497268[m merge
+[33m4f3d1fd7[m update use and login
+[33m63c9ba0d[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m575bd3e8[m update search type location code
+[33m438caa09[m update logo
+[33m65a79b6c[m fixing form survey
+[33m754d7cd9[m customer
+[33mf47fc90b[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33mc9dd7b6a[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m35806ba6[m update customer
+[33ma5d1b8d3[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m5d3f83c2[m update customer
+[33mfc27df65[m update search
+[33mf5ff5c65[m fix event survey
+[33m1fa807e7[m update survey
+[33m998421e1[m update customer api
+[33mc2104b52[m update customer
+[33m52725648[m =add table
+[33m8c2a5560[m update
+[33m431cab63[m merge
+[33m540b7897[m create api customer
+[33m648260b7[m translate
+[33m51465a7f[m update
+[33m2adbe941[m pagination
+[33m3ac6f112[m update
+[33mb169fe7e[m pagination locationcodes
+[33m7e52bff2[m update api users
+[33maf8948cd[m crate api
+[33mc2e5b7e8[m update customer
+[33m65715dc6[m color
+[33me376f6b2[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m9b7afb0e[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m2281dee4[m update survey
+[33mbb1639a6[m update
+[33md46401f3[m admin and app (title)
+[33m1db76ef6[m settlement
+[33m780e8391[m faicon32x32
+[33m848f2bd2[m menu approval
+[33me1f77fd7[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m031b3d12[m update customer
+[33m4a9ce636[m update customer
+[33mfbc05ba8[m update form customer
+[33mdcdcafb5[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m40803f2b[m fix error
+[33m59a4d2fd[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33m236f8d79[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into ChhaiEang
+[33m35c54685[m update
+[33m51ff5308[m survey
+[33me0d0adaf[m Merge branch 'dev' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33m29a204d1[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into dev
+[33mf8575aa0[m icon customer
+[33mcb5cf1aa[m menu customer
+[33m13a30073[m menu
+[33m1a3580d2[m update
+[33mcc5f9be8[m Merge branch 'sey-dev' of https://github.com/KSWM-Company/kswm_system_api into production
+[33m505b5101[m update customer
+[33m8b2eab3b[m update
+[33m3474642d[m fix merge
+[33m30904d59[m Merge branch 'dev_production'
+[33m925a3e49[m fix form create survey
+[33m2d6a5821[m update
+[33m3cda9f95[m crud paymenttype
+[33m36b18b4c[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api into production
+[33m9e18eab5[m update customer
+[33m152b8a5f[m update menu and crud exchange rate
+[33mb5280837[m Update .env.example
+[33m42d8ece6[m update form survey
+[33m0da32fea[m update form survey
+[33m7925822e[m update survey
+[33mf2bff553[m update form survey
+[33me26786e8[m update
+[33mff43ebcb[m update staff
+[33me9e9f7c5[m update
+[33me3be772f[m update
+[33madeb2d21[m update lang
+[33m51fd2ec0[m update user
+[33m65f2035b[m update
+[33m9ff06f02[m list
+[33mbf89bb5a[m merg
+[33m910cbec2[m list
+[33m1e14b12b[m merg
+[33m08dd25d6[m liststaffprofilephoto
+[33m841b21c5[m update survey
+[33m46afc196[m update
+[33mde363367[m update logo
+[33mff062a23[m update log
+[33m510a3b6d[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33m117aa7a1[m update
+[33ma7202d96[m update
+[33mec6b14a1[m create new survey
+[33m7a13a3d0[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33m5c375b7f[m addTotal_fee
+[33m832c5558[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33m720a0650[m update color
+[33m15c4a0b0[m update survey
+[33mcd0f6321[m crud address
+[33mae0805cf[m Update web.php
+[33mf71cd684[m update
+[33m9dcff083[m form staff
+[33m25cf166a[m avata
+[33m389b44ab[m update
+[33md82da6f1[m update notification
+[33m2c79bb0e[m update notification
+[33m284a8250[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api into sey-dev
+[33mc5116083[m update col
+[33m264c55d1[m update
+[33m0545fbac[m update
+[33m253c6731[m update login
+[33me847e7cc[m lang
+[33m218d8657[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33m2e3bff80[m update color
+[33md83af2c9[m update layout
+[33md09ef357[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33m3b129cf6[m update
+[33m60b49ea3[m update uniform
+[33m6a10569f[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33m3c7f6916[m update
+[33m29fced4c[m color
+[33mfa69973c[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33mad3a9e6b[m update
+[33mc2edd19a[m update
+[33m492734b5[m update
+[33m21a16b2b[m update bottun
+[33m07bd9e8f[m name
+[33m200837dc[m update
+[33md1d4f5e8[m upload file excel sub category
+[33m989d82c0[m update
+[33m5447962e[m update
+[33m566bf054[m update
+[33m75e8216e[m update
+[33md0b5d731[m updae
+[33mde155a2a[m update lang
+[33m410f23f4[m update import file
+[33m088d95c4[m close
+[33mf0ad1bf7[m import excel
+[33m1fabac2d[m update
+[33mbddb1163[m update sidebar
+[33m0201d85f[m again
+[33m3d543be9[m seeder
+[33m90845d64[m update onchange business type
+[33ma8ab7437[m update form login
+[33ma573d1d5[m update
+[33m69708062[m update icon
+[33m521d895c[m update function delete
+[33m2ed34dd4[m update translate
+[33m42f987bc[m font
+[33mbad49104[m update lang
+[33m3314bdec[m update
+[33m7f5dda4a[m update responsive table and subCRequest
+[33m82f9df9e[m update responsive
+[33m8026a9e1[m update
+[33m0caf34ae[m update icon
+[33me11bf0a3[m update
+[33m27b6c0d9[m update C by and Cr date
+[33m489074e6[m css
+[33m90b38bed[m update form location code
+[33m7e12525a[m update seederLocation code
+[33m930f731b[m fixbar
+[33mb2cff09a[m seeder LongText
+[33m386d33ba[m seeder
+[33m86c5c9a0[m seeder
+[33m43bad75b[m Merge branch 'ChhaiEang' of https://github.com/KSWM-Company/kswm_system_api
+[33mf87ed24b[m create seeder sub category
+[33m732d52ab[m update field and change
+[33m81e5e801[m Merge branch 'main' of https://github.com/KSWM-Company/kswm_system_api
+[33m049702e4[m Update web.php
+[33m5ed008a2[m icon..
+[33m14f6a903[m create fuction upload file
+[33mb6ebb756[m updated filed user_id
